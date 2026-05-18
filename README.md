@@ -1,6 +1,6 @@
 <!-- BREATHTAKING HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,12&height=250&section=header&text=Rohan%20Rao&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20MERN%20Architect%20⚡&descAlignY=60&descSize=22" width="100%" style="border-radius: 15px 15px 0 0;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,12&height=250&section=header&text=Rohan%&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20MERN%20Architect%20⚡&descAlignY=60&descSize=22" width="100%" style="border-radius: 15px 15px 0 0;"/>
 </div>
 
 <div align="center" style="margin-top: -10px;">
